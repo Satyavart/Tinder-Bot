@@ -1,2 +1,2 @@
-password = 'It\'sasecret'
-user = '6350062968'
+password = 'password@123'
+user = 'name@email.com'
